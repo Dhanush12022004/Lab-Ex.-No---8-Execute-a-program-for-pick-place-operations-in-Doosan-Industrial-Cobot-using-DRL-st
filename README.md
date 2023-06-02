@@ -44,7 +44,7 @@ Procedure:
 
 //Name: DHANUSH.G.R.
 
-## output : 
+## Output : 
 
 
 ![241128601-9a34e11c-51ed-4afc-af74-4fe836d6d7b1](https://github.com/Georgepaultony/Lab-Ex.-No---8-Execute-a-program-for-pick-place-operations-in-Doosan-Industrial-Cobot-using-DRL-st/assets/120088748/88e4a69b-93e6-44a9-983a-3100dfb097b1)
